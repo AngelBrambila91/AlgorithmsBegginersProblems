@@ -1,0 +1,15 @@
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/bin/Debug/net6.0/ValidParentheses
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/bin/Debug/net6.0/ValidParentheses.deps.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/bin/Debug/net6.0/ValidParentheses.runtimeconfig.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/bin/Debug/net6.0/ValidParentheses.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/bin/Debug/net6.0/ValidParentheses.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/obj/Debug/net6.0/ValidParentheses.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/obj/Debug/net6.0/ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/obj/Debug/net6.0/ValidParentheses.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/obj/Debug/net6.0/ValidParentheses.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/obj/Debug/net6.0/ValidParentheses.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/obj/Debug/net6.0/ValidParentheses.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/obj/Debug/net6.0/refint/ValidParentheses.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/obj/Debug/net6.0/ValidParentheses.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/obj/Debug/net6.0/ValidParentheses.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ValidParentheses/obj/Debug/net6.0/ref/ValidParentheses.dll

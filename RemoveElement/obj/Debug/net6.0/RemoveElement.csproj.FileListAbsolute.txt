@@ -1,0 +1,15 @@
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/bin/Debug/net6.0/RemoveElement
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/bin/Debug/net6.0/RemoveElement.deps.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/bin/Debug/net6.0/RemoveElement.runtimeconfig.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/bin/Debug/net6.0/RemoveElement.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/bin/Debug/net6.0/RemoveElement.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/obj/Debug/net6.0/RemoveElement.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/obj/Debug/net6.0/RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/obj/Debug/net6.0/RemoveElement.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/obj/Debug/net6.0/RemoveElement.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/obj/Debug/net6.0/RemoveElement.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/obj/Debug/net6.0/RemoveElement.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/obj/Debug/net6.0/refint/RemoveElement.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/obj/Debug/net6.0/RemoveElement.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/obj/Debug/net6.0/RemoveElement.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/RemoveElement/obj/Debug/net6.0/ref/RemoveElement.dll

@@ -1,0 +1,15 @@
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/bin/Debug/net6.0/ConcatenationOfArray
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/bin/Debug/net6.0/ConcatenationOfArray.deps.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/bin/Debug/net6.0/ConcatenationOfArray.runtimeconfig.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/bin/Debug/net6.0/ConcatenationOfArray.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/bin/Debug/net6.0/ConcatenationOfArray.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/obj/Debug/net6.0/ConcatenationOfArray.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/obj/Debug/net6.0/ConcatenationOfArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/obj/Debug/net6.0/ConcatenationOfArray.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/obj/Debug/net6.0/ConcatenationOfArray.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/obj/Debug/net6.0/ConcatenationOfArray.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/obj/Debug/net6.0/ConcatenationOfArray.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/obj/Debug/net6.0/refint/ConcatenationOfArray.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/obj/Debug/net6.0/ConcatenationOfArray.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/obj/Debug/net6.0/ConcatenationOfArray.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ConcatenationOfArray/obj/Debug/net6.0/ref/ConcatenationOfArray.dll

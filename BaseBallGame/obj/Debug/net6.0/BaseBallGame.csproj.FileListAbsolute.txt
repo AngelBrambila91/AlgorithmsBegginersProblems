@@ -1,0 +1,15 @@
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/bin/Debug/net6.0/BaseBallGame
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/bin/Debug/net6.0/BaseBallGame.deps.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/bin/Debug/net6.0/BaseBallGame.runtimeconfig.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/bin/Debug/net6.0/BaseBallGame.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/bin/Debug/net6.0/BaseBallGame.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/obj/Debug/net6.0/BaseBallGame.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/obj/Debug/net6.0/BaseBallGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/obj/Debug/net6.0/BaseBallGame.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/obj/Debug/net6.0/BaseBallGame.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/obj/Debug/net6.0/BaseBallGame.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/obj/Debug/net6.0/BaseBallGame.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/obj/Debug/net6.0/refint/BaseBallGame.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/obj/Debug/net6.0/BaseBallGame.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/obj/Debug/net6.0/BaseBallGame.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/BaseBallGame/obj/Debug/net6.0/ref/BaseBallGame.dll

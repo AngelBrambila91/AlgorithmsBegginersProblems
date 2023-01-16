@@ -1,0 +1,15 @@
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/bin/Debug/net6.0/MinStack
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/bin/Debug/net6.0/MinStack.deps.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/bin/Debug/net6.0/MinStack.runtimeconfig.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/bin/Debug/net6.0/MinStack.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/bin/Debug/net6.0/MinStack.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/obj/Debug/net6.0/MinStack.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/obj/Debug/net6.0/MinStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/obj/Debug/net6.0/MinStack.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/obj/Debug/net6.0/MinStack.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/obj/Debug/net6.0/MinStack.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/obj/Debug/net6.0/MinStack.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/obj/Debug/net6.0/refint/MinStack.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/obj/Debug/net6.0/MinStack.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/obj/Debug/net6.0/MinStack.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/MinStack/obj/Debug/net6.0/ref/MinStack.dll

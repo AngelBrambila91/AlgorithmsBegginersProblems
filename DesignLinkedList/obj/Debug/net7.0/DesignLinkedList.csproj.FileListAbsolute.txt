@@ -1,0 +1,15 @@
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\bin\Debug\net7.0\DesignLinkedList.exe
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\bin\Debug\net7.0\DesignLinkedList.deps.json
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\bin\Debug\net7.0\DesignLinkedList.runtimeconfig.json
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\bin\Debug\net7.0\DesignLinkedList.dll
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\bin\Debug\net7.0\DesignLinkedList.pdb
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\obj\Debug\net7.0\DesignLinkedList.csproj.AssemblyReference.cache
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\obj\Debug\net7.0\DesignLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\obj\Debug\net7.0\DesignLinkedList.AssemblyInfoInputs.cache
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\obj\Debug\net7.0\DesignLinkedList.AssemblyInfo.cs
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\obj\Debug\net7.0\DesignLinkedList.csproj.CoreCompileInputs.cache
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\obj\Debug\net7.0\DesignLinkedList.dll
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\obj\Debug\net7.0\refint\DesignLinkedList.dll
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\obj\Debug\net7.0\DesignLinkedList.pdb
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\obj\Debug\net7.0\DesignLinkedList.genruntimeconfig.cache
+D:\Code\AlgorithmsBegginersProblems\DesignLinkedList\obj\Debug\net7.0\ref\DesignLinkedList.dll

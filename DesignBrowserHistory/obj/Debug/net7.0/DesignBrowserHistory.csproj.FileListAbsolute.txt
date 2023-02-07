@@ -1,0 +1,15 @@
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/bin/Debug/net7.0/DesignBrowserHistory
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/bin/Debug/net7.0/DesignBrowserHistory.deps.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/bin/Debug/net7.0/DesignBrowserHistory.runtimeconfig.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/bin/Debug/net7.0/DesignBrowserHistory.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/bin/Debug/net7.0/DesignBrowserHistory.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/obj/Debug/net7.0/DesignBrowserHistory.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/obj/Debug/net7.0/DesignBrowserHistory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/obj/Debug/net7.0/DesignBrowserHistory.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/obj/Debug/net7.0/DesignBrowserHistory.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/obj/Debug/net7.0/DesignBrowserHistory.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/obj/Debug/net7.0/DesignBrowserHistory.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/obj/Debug/net7.0/refint/DesignBrowserHistory.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/obj/Debug/net7.0/DesignBrowserHistory.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/obj/Debug/net7.0/DesignBrowserHistory.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/DesignBrowserHistory/obj/Debug/net7.0/ref/DesignBrowserHistory.dll

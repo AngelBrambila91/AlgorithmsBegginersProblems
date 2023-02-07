@@ -1,0 +1,15 @@
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/bin/Debug/net7.0/ReverseLinkedList
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/bin/Debug/net7.0/ReverseLinkedList.deps.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/bin/Debug/net7.0/ReverseLinkedList.runtimeconfig.json
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/bin/Debug/net7.0/ReverseLinkedList.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/bin/Debug/net7.0/ReverseLinkedList.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/obj/Debug/net7.0/ReverseLinkedList.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/obj/Debug/net7.0/ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/obj/Debug/net7.0/ReverseLinkedList.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/obj/Debug/net7.0/ReverseLinkedList.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/obj/Debug/net7.0/ReverseLinkedList.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/obj/Debug/net7.0/ReverseLinkedList.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/obj/Debug/net7.0/refint/ReverseLinkedList.dll
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/obj/Debug/net7.0/ReverseLinkedList.pdb
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/obj/Debug/net7.0/ReverseLinkedList.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Code/AlgorithmsBegginersProblems/ReverseLinkedList/obj/Debug/net7.0/ref/ReverseLinkedList.dll
